@@ -1,3 +1,5 @@
+-- pg. 49
+
 type Info = String
 
 dummyInfo :: Info
